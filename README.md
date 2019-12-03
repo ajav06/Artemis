@@ -3,15 +3,15 @@ Sistema web de Gestión de Preguntas, Quejas, Reclamos, y Sugerencias (PQRS) par
 
 ## Back-End:
 
-* Django PWA (Python)
-* AJAX (Jquery)
+* Django PWA (Python).
+* AJAX (Jquery).
 
 ## Front-End:
-* Bootstrap 3
-* FontAwesome
-* SweetAlert
-* Google Fonts
-* DataTables
+* Bootstrap 3.
+* FontAwesome.
+* SweetAlert.
+* Google Fonts.
+* DataTables.
 
 ## Desarrolladores:
 * Anyelli Villareal (https://github.com/anyiv)
